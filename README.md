@@ -34,7 +34,7 @@ https://github.com/Sugardevs-in/Notes/blob/854ed9f7087ed0ded1d95e01270c283e590ad
 2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/StickyNotesApp.git
-```
+   ```
 
 
 
