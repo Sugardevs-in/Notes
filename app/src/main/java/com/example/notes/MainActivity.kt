@@ -314,7 +314,7 @@ fun NotesCard(notes: Note, onDelete: (Note) -> Unit,  onUpdate: (Note) -> Unit) 
                     ) {
                         Icon(
                             imageVector = Icons.Default.Check,
-                            contentDescription = "Save"
+                            contentDescription = "Check"
                         )
                     }
                 }
