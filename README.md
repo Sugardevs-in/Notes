@@ -90,7 +90,7 @@ This documentation provides an in-depth explanation of the implementation detail
 
 ## Getting Started
 To run the Notes app on your local machine, follow these steps:
-1. Clone the repository: `<repository_url>`
+1. Clone the repository: `https://github.com/Sugardevs-in/Notes/blob/Public_beta1/`
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 
