@@ -5,11 +5,13 @@ The ** Notes App** is a simple Android application that allows users to create, 
 ## Table of Contents
 
 - [Features](#features)
-- [Download](#Notes.apk)
+- [Download](#download)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
+## Download
+https://github.com/Sugardevs-in/Notes/blob/854ed9f7087ed0ded1d95e01270c283e590ad465/Notes.apk`
 ## Features
 
 - Create new notes with titles and content.
