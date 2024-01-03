@@ -34,9 +34,6 @@ https://github.com/Sugardevs-in/Notes/blob/854ed9f7087ed0ded1d95e01270c283e590ad
 2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/StickyNotesApp.git
-   ```
-
-
 
 
 2. Open the project in Android Studio.
@@ -90,7 +87,7 @@ This documentation provides an in-depth explanation of the implementation detail
 
 ## Getting Started
 To run the Notes app on your local machine, follow these steps:
-1. Clone the repository: `https://github.com/Sugardevs-in/Notes/blob/Public_beta1/`
+
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 
